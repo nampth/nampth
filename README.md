@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nampth
 - 👀 I’m interested in PHP(Laravel, Wordpress), Vuejs and Python
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning React Native & NestJs
 - 📫 My personal blog https://nho1ty.com
 
 <!---
