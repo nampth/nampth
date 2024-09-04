@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nampth
-- 👀 I’m interested in PHP(Laravel, Wordpress), Vuejs and Python
-- 🌱 I’m currently learning React Native & NestJs
-- 📫 My personal blog https://nho1ty.com
+- 👀 I’m interested in PHP(Laravel, Wordpress), Vuejs/NuxtJs, NestJS and Python 
+- 📫 My personal project https://kooltalent.com
 
 <!---
 nampth/nampth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
