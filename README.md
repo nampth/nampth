@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @nampth
 - 👀 I’m a fullstack developer from Viet Nam. I'm interested in PHP(Laravel, Wordpress), Vuejs/NuxtJs, NestJS and Python 
-- 📫 My personal project https://kooltalent.com
+ 
+- 📫 My personal projects
+  - Content generator by AI: https://reviewsachviet.com, https://huongdantulam.com , https://tasktutoronline.com
+  - Promote new social network channels: https://kooltalent.com
 - 📫 My personal blog https://medium.com/@nampth100
 
 <!---
